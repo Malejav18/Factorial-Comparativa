@@ -19,3 +19,10 @@ t0=time.time()
 x=factorial(500)
 t1=time.time()
 print("tiempo de ejecucion (500): ", t1-t0)
+
+'''
+Resultados: 
+tiempo de ejecucion (5):  2.86102294921875e-06
+tiempo de ejecucion (50):  0.0001361370086669922
+tiempo de ejecucion (500):  0.0008399486541748047
+'''
