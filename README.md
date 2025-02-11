@@ -44,8 +44,16 @@ Los resultados obtenidos son los siguientes:
 ## C
 
 ### Iterativo
+- 0.00000200 segundos.
+- 0.00000400 segundos
+- 0El cálculo iterativo del factorial de 500 tomó 0.00000400 segundos.
 
 ### Recursivo
+-ó 0.00000100 segu
+-  0.00000200 segundos
+- El cálculo recursivo del factorial de 500 tomó 0.00001000 segundos.
+
+
 
 ## Análisis de resultados
 - en que afecta que sea compilado o interpretado
