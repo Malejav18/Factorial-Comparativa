@@ -22,10 +22,13 @@ En este repositorio se puede encontrar la función de factorial, implementada de
 
 Se realizaron dos códigos de la función factorial, de manera iterativa y recursiva en los lenguajes python y c, ambos adjuntos en los archivos de este repositorio. Estos códigos proporcionan el tiempo que demora realizar esta función al cálcular el factorial de 5, 50 u 500. Además para realizar una comparación más precisa las pruebas se realizaron en una misma maquina; las características de la misma son las siguientes:
 
-
+Mackbook Air 13' modelo 2019
+**Procesador:** 1,6 GHz Dual-Core Intel Core i5
+**RAM:** 8 GB 2133 MHz LPDDR3
 
 ## Resultados
 Los resultados obtenidos son los siguientes:
 
 ## Análisis de resultados
-
+en que afecta que sea compilado o interpretado
+tiene que ver la maquina utilizada?
