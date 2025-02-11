@@ -29,6 +29,24 @@ Se realizaron dos códigos de la función factorial, de manera iterativa y recur
 ## Resultados
 Los resultados obtenidos son los siguientes:
 
+## Python
+
+### Iterativo
+- tiempo de ejecucion (5):  3.814697265625e-06
+- tiempo de ejecucion (50):  5.9604644775390625e-06
+- tiempo de ejecucion (500):  0.00010395050048828125
+
+### Recursivo
+- tiempo de ejecucion (5):  2.86102294921875e-06
+- tiempo de ejecucion (50):  0.0001361370086669922
+- tiempo de ejecucion (500):  0.0008399486541748047
+
+## C
+
+### Iterativo
+
+### Recursivo
+
 ## Análisis de resultados
 - en que afecta que sea compilado o interpretado
 - tiene que ver la maquina utilizada?
