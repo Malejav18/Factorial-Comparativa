@@ -32,28 +32,26 @@ Los resultados obtenidos son los siguientes:
 ## Python
 
 ### Iterativo
-- tiempo de ejecucion (5):  3.814697265625e-06
-- tiempo de ejecucion (50):  5.9604644775390625e-06
-- tiempo de ejecucion (500):  0.00010395050048828125
+- Tiempo de ejecucion (5):  3.814697265625e-06 segundos
+- Tiempo de ejecucion (50):  5.9604644775390625e-06 segundos
+- Tiempo de ejecucion (500):  0.00010395050048828125 segundos
 
 ### Recursivo
-- tiempo de ejecucion (5):  2.86102294921875e-06
-- tiempo de ejecucion (50):  0.0001361370086669922
-- tiempo de ejecucion (500):  0.0008399486541748047
+- Tiempo de ejecucion (5):  2.86102294921875e-06 segundos
+- Tiempo de ejecucion (50):  0.0001361370086669922 segundos
+- Tiempo de ejecucion (500):  0.0008399486541748047 segundos
 
 ## C
 
 ### Iterativo
-- 0.00000200 segundos.
-- 0.00000400 segundos
-- 0El cálculo iterativo del factorial de 500 tomó 0.00000400 segundos.
+- Tiempo de ejecucion (5):  0.00000200 segundos
+- Tiempo de ejecucion (50):  0.00000400 segundos
+- Tiempo de ejecucion (500):  0.00000400 segundos
 
 ### Recursivo
--ó 0.00000100 segu
--  0.00000200 segundos
-- El cálculo recursivo del factorial de 500 tomó 0.00001000 segundos.
-
-
+- Tiempo de ejecucion (5):  0.00000100 segundos
+- Tiempo de ejecucion (50):  0.00000200 segundos
+- Tiempo de ejecucion (500):  0.00001000 segundos
 
 ## Análisis de resultados
 - en que afecta que sea compilado o interpretado
