@@ -37,14 +37,15 @@ Los resultados obtenidos son los siguientes:
 ## C
 
 ### Iterativo
-- Tiempo de ejecucion (5):  0.00000200 segundos
-- Tiempo de ejecucion (50):  0.00000400 segundos
-- Tiempo de ejecucion (500):  0.00000400 segundos
+- Tiempo de ejecucion (5):  0.00000003 segundos
+- Tiempo de ejecucion (50):  0.00000016 segundos
+- Tiempo de ejecucion (500):  0.00000115 segundos
 
 ### Recursivo
-- Tiempo de ejecucion (5):  0.00000100 segundos
-- Tiempo de ejecucion (50):  0.00000200 segundos
-- Tiempo de ejecucion (500):  0.00001000 segundos
+- Tiempo de ejecucion (5):  0.00000004 segundos
+- Tiempo de ejecucion (50):  0.00000050 segundos
+- Tiempo de ejecucion (500):  0.00000556 segundos
+
 
 ## Análisis de resultados
 - en que afecta que sea compilado o interpretado
