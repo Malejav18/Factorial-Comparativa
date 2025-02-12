@@ -17,7 +17,7 @@ Se realizaron dos códigos de la función factorial, de manera iterativa y recur
 - **Procesador:** Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
 - **RAM:** 8 GB
 
-Para la ejecución de los programas en Python, se utilizó la extensión de Python, última versión 3.13.2, en Visual Studio Code, mientras que para los programas en C se utilizó el programa Dev - C++. Si se presentan dificultades en la compilación y ejecución del programa, revisar la documentación y el paso a paso del respectivo programa. En el caso de Dev - C++, la solución puede estar [aquí](https://stackoverflow.com/questions/14514682/source-file-not-compiled-dev-c). 
+Para la ejecución de los programas en Python, se utilizó la extensión de Python, última versión 3.13.2, en Visual Studio Code, mientras que para los programas en C se utilizó el programa Dev - C++. Si se presentan dificultades en la compilación y ejecución del programa, revisar la documentación y el paso a paso de la instalación y ejecución del respectivo programa. En el caso de Dev - C++, la solución puede estar [aquí](https://stackoverflow.com/questions/14514682/source-file-not-compiled-dev-c). 
 
 ## Resultados
 Los resultados obtenidos son los siguientes:
