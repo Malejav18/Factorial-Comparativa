@@ -7,7 +7,7 @@ Integrantes:
 - Miguel Suarez
 - Alejandra Vargas
 
-En este repositorio se puede encontrar la función de factorial, implementada de manera iterativa y recursiva en el lenguaje c y python. El propósito de esta actividad es realizar una comparación entre un lenguaje interpretado y uno compilado.
+En este repositorio se puede encontrar la función de factorial, implementada de manera iterativa y recursiva en el lenguaje C y Python. El propósito de esta actividad es realizar una comparación entre un lenguaje interpretado y uno compilado en una misma máquina.
 
 ## Proceso
 
@@ -48,8 +48,11 @@ Los resultados obtenidos son los siguientes:
 
 
 ## Análisis de resultados
-- en que afecta que sea compilado o interpretado
-- tiene que ver la maquina utilizada?
+Al realizar la comparación directa entre los tiempos de ejecución, se evidencia que la ejecución del programa es más rápida en el lenguaje compilado (C) que en el lenguaje interpretado (Python). Esto se asocia con la diferencia fundamental en la forma en que ambos lenguajes ejecutan el código: mientras que C es un lenguaje compilado que se traduce a código de máquina optimizado antes de ejecutarse, Python es un lenguaje interpretado, lo que significa que cada instrucción se evalúa en tiempo de ejecución, añadiendo sobrecarga y reduciendo la velocidad de ejecución.
+
+Además, la comparación directa entre el proceso iterativo y el recursivo nos permite obtener que el proceso recursivo es más lento que el iterativo cuando el valor de número factorial va aumentando. Esto se debe a que la recursión implica llamadas a funciones adicionales, lo que genera una sobrecarga por cada llamada, además de que los valores intermedios deben almacenarse en la pila, lo que aumenta el tiempo de ejecución y el uso de memoria a medida que el número factorial crece.
+
+No obstante, cabe agregar que el resultado de la operación involucra obtener un valor demasiado grande, tanto que no se puede guardar en las variables convencionales de dichos lenguajes, pues el tipo unsigned long long int permite un tamaño máximo de 18,446,744,073,709,551,615, lo cual no es suficiente para guardar siquiera el valor de 50!. Por lo tanto, si se quiere tanto calcular como imprimir el valor del factorial, es necesario almacenar los dígitos en un arreglo e imprimirlos posteriormente. Este proceso requiere a su vez un tiempo de ejecución propio y cada vez mayor, lo cual influye en los tiempos resultantes obtenidos y dificulta el análisis. Estos resultados se muestran a continuación.
 
 
 
