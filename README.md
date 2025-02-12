@@ -29,9 +29,9 @@ Los resultados obtenidos son los siguientes:
 
 
 ### Recursivo
-- Tiempo de ejecucion (5): 
-- Tiempo de ejecucion (50): 
-- Tiempo de ejecucion (500):
+- Tiempo de ejecucion (5): 0.0000042200 segundos
+- Tiempo de ejecucion (50): 0.0000353800 segundos
+- Tiempo de ejecucion (500): 0.0003813200 segundos
 
 ## C
 
