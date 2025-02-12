@@ -57,8 +57,7 @@ Los resultados obtenidos son los siguientes:
 - en que afecta que sea compilado o interpretado
 - tiene que ver la maquina utilizada?
 
-[Uploading factorial_IG.py…]()
-
-[Uploading factorial_RG.py…]()
+![recursivoPy](https://github.com/user-attachments/assets/f7a16c27-2099-428c-886f-796d693a1fbf)
+![iterativoPy](https://github.com/user-attachments/assets/5291c59c-93a3-4385-9f34-7400151313e0)
 
 
