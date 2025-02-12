@@ -58,6 +58,12 @@ Los resultados obtenidos son los siguientes:
 ### Comparación iterativo y recursivo
 ![compC](https://github.com/user-attachments/assets/8ceb2c79-856c-452f-9be8-a047eae9815a)
 
+### Comparación entre lenguajes
+
+![comp](https://github.com/user-attachments/assets/7aa89c2d-b11a-4881-b28c-8dec10ccdcfa)
+![compLog](https://github.com/user-attachments/assets/2437d307-d81c-485a-82d7-e4ecd4a76ac9)
+
+
 ## Análisis de resultados
 Al realizar la comparación directa entre los tiempos de ejecución, se evidencia que la ejecución del programa es más rápida en el lenguaje compilado (C) que en el lenguaje interpretado (Python). Esto se asocia con la diferencia fundamental en la forma en que ambos lenguajes ejecutan el código: mientras que C es un lenguaje compilado que se traduce a código de máquina optimizado antes de ejecutarse, Python es un lenguaje interpretado, lo que significa que cada instrucción se evalúa en tiempo de ejecución, añadiendo sobrecarga y reduciendo la velocidad de ejecución.
 
