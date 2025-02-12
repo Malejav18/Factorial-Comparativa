@@ -32,14 +32,14 @@ Los resultados obtenidos son los siguientes:
 ## Python
 
 ### Iterativo
-- Tiempo de ejecucion (5):  3.814697265625e-06 segundos
-- Tiempo de ejecucion (50):  5.9604644775390625e-06 segundos
-- Tiempo de ejecucion (500):  0.00010395050048828125 segundos
+- Tiempo de ejecucion (5):  3.814697265625e-06 segundos 0.00000191
+- Tiempo de ejecucion (50):  5.9604644775390625e-06 segundos 0.00002289
+- Tiempo de ejecucion (500):  0.00010395050048828125 segundos 0.00009418
 
 ### Recursivo
-- Tiempo de ejecucion (5):  2.86102294921875e-06 segundos
-- Tiempo de ejecucion (50):  0.0001361370086669922 segundos
-- Tiempo de ejecucion (500):  0.0008399486541748047 segundos
+- Tiempo de ejecucion (5):  2.86102294921875e-06 segundos 0.00000215
+- Tiempo de ejecucion (50):  0.0001361370086669922 segundos 0.00003600
+- Tiempo de ejecucion (500):  0.0008399486541748047 segundos 0.00052524
 
 ## C
 
@@ -56,3 +56,9 @@ Los resultados obtenidos son los siguientes:
 ## Análisis de resultados
 - en que afecta que sea compilado o interpretado
 - tiene que ver la maquina utilizada?
+
+[Uploading factorial_IG.py…]()
+
+[Uploading factorial_RG.py…]()
+
+
