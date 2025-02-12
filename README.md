@@ -26,7 +26,7 @@ Los resultados obtenidos son los siguientes:
 - Tiempo de ejecucion (5): 
 - Tiempo de ejecucion (50): 
 - Tiempo de ejecucion (500):
-- 
+
 ![iterativoC](https://github.com/user-attachments/assets/bb055290-c1a1-40d7-979c-e253c4c1b000)
 
 
@@ -34,12 +34,13 @@ Los resultados obtenidos son los siguientes:
 - Tiempo de ejecucion (5): 
 - Tiempo de ejecucion (50): 
 - Tiempo de ejecucion (500):
-- 
+
 ![recursivoC](https://github.com/user-attachments/assets/9686afa9-fa37-4dea-a2b2-3bfd3acc3b7f)
 
 
 ### Comparación iterativo y recursivo
-![compC](https://github.com/user-attachments/assets/3984656d-7fe5-4e44-98be-8d85a413cc46)
+![compC](https://github.com/user-attachments/assets/8ceb2c79-856c-452f-9be8-a047eae9815a)
+
 
 ## C
 
