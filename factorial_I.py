@@ -1,33 +1,27 @@
 import time
-def factorial (x):
-    n=1
-    for i in range(1,x+1):
-        n*=i
+
+# Función factorial iterativo
+def factorial_iterativo(x):
+    n = 1
+    for i in range(1, x + 1):
+        n *= i
     return n
 
-t0=time.time()
-x=factorial(5)
-t1=time.time()
-print("tiempo de ejecucion (5): ", t1-t0)
+# Función para medir el tiempo promedio con mayor precisión
+def medir_tiempo(func, n, repeticiones=10):
+    tiempos = []
+    for _ in range(repeticiones):
+        t0 = time.perf_counter()  # Usar perf_counter para mayor precisión
+        func(n)
+        t1 = time.perf_counter()
+        tiempos.append(t1 - t0)
+    return sum(tiempos) / len(tiempos)
 
-t0=time.time()
-x=factorial(50)
-t1=time.time()
-print("tiempo de ejecucion (50): ", t1-t0)
+# Valores para realizar las pruebas
+valores_n = [5, 50, 500]
 
-t0=time.time()
-x=factorial(500)
-t1=time.time()
-print("tiempo de ejecucion (500): ", t1-t0)
-
-'''
-Mac: 
-tiempo de ejecucion (5):  3.814697265625e-06
-tiempo de ejecucion (50):  5.9604644775390625e-06
-tiempo de ejecucion (500):  0.00010395050048828125
-
-Windows
-tiempo de ejecucion (5):  5.0067901611328125e-06
-tiempo de ejecucion (50):  2.4557113647460938e-05
-tiempo de ejecucion (500):  0.00023031234741210938
-'''
+# Realizar las pruebas para cada valor de n
+for n in valores_n:
+    # Tiempo promedio iterativo
+    tiempo_iterativo = medir_tiempo(factorial_iterativo, n)
+    print(f"Tiempo promedio iterativo para n = {n}: {tiempo_iterativo:.10f} segundos")
