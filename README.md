@@ -7,15 +7,6 @@ Integrantes:
 - Miguel Suarez
 - Alejandra Vargas
 
-
-- programa en c y en python
-- factorial iterativo y factorial recursivo
-- calcular factorial de 5, 50, 500
-- tomar los tiempo de cada ejecucion
-- Comparar
-- diagrama de barras que me permita ver las diferencias de tiempos
-- Utilizar la misma maquina
-
 En este repositorio se puede encontrar la función de factorial, implementada de manera iterativa y recursiva en el lenguaje c y python. El propósito de esta actividad es realizar una comparación entre un lenguaje interpretado y uno compilado.
 
 ## Proceso
