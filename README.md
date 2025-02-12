@@ -26,12 +26,16 @@ Los resultados obtenidos son los siguientes:
 - Tiempo de ejecucion (5): 0.0000028100 segundos
 - Tiempo de ejecucion (50): 0.0000078600 segundos
 - Tiempo de ejecucion (500): 0.0001024900 segundos
-
+![iterativoPy](https://github.com/user-attachments/assets/b686c3c2-c498-482a-8975-b927ea014add)
 
 ### Recursivo
 - Tiempo de ejecucion (5): 0.0000042200 segundos
 - Tiempo de ejecucion (50): 0.0000353800 segundos
 - Tiempo de ejecucion (500): 0.0003813200 segundos
+![recursivoPy](https://github.com/user-attachments/assets/260f6b01-4340-45ab-bf4e-d5666a7084a2)
+
+### Comparación iterativo y recursivo
+![compPy](https://github.com/user-attachments/assets/cdf65217-bc01-4ac3-8384-d029db18f8a3)
 
 ## C
 
