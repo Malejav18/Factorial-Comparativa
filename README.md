@@ -25,7 +25,8 @@ Los resultados obtenidos son los siguientes:
 ### Iterativo
 - Tiempo de ejecucion (5): 
 - Tiempo de ejecucion (50): 
-- Tiempo de ejecucion (500): 
+- Tiempo de ejecucion (500):
+- 
 ![iterativoC](https://github.com/user-attachments/assets/bb055290-c1a1-40d7-979c-e253c4c1b000)
 
 
@@ -33,6 +34,7 @@ Los resultados obtenidos son los siguientes:
 - Tiempo de ejecucion (5): 
 - Tiempo de ejecucion (50): 
 - Tiempo de ejecucion (500):
+- 
 ![recursivoC](https://github.com/user-attachments/assets/9686afa9-fa37-4dea-a2b2-3bfd3acc3b7f)
 
 
