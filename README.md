@@ -26,11 +26,13 @@ Los resultados obtenidos son los siguientes:
 - Tiempo de ejecucion (5):  3.814697265625e-06 segundos 0.00000191
 - Tiempo de ejecucion (50):  5.9604644775390625e-06 segundos 0.00002289
 - Tiempo de ejecucion (500):  0.00010395050048828125 segundos 0.00009418
+![iterativoPy](https://github.com/user-attachments/assets/5291c59c-93a3-4385-9f34-7400151313e0)
 
 ### Recursivo
 - Tiempo de ejecucion (5):  2.86102294921875e-06 segundos 0.00000215
 - Tiempo de ejecucion (50):  0.0001361370086669922 segundos 0.00003600
 - Tiempo de ejecucion (500):  0.0008399486541748047 segundos 0.00052524
+![recursivoPy](https://github.com/user-attachments/assets/f7a16c27-2099-428c-886f-796d693a1fbf)
 
 ## C
 
@@ -48,7 +50,5 @@ Los resultados obtenidos son los siguientes:
 - en que afecta que sea compilado o interpretado
 - tiene que ver la maquina utilizada?
 
-![recursivoPy](https://github.com/user-attachments/assets/f7a16c27-2099-428c-886f-796d693a1fbf)
-![iterativoPy](https://github.com/user-attachments/assets/5291c59c-93a3-4385-9f34-7400151313e0)
 
 
