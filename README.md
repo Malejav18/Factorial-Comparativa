@@ -23,9 +23,9 @@ Los resultados obtenidos son los siguientes:
 ## Python
 
 ### Iterativo
-- Tiempo de ejecucion (5): 
-- Tiempo de ejecucion (50): 
-- Tiempo de ejecucion (500):
+- Tiempo de ejecucion (5): 0.0000028100 segundos
+- Tiempo de ejecucion (50): 0.0000078600 segundos
+- Tiempo de ejecucion (500): 0.0001024900 segundos
 
 
 ### Recursivo
@@ -36,16 +36,16 @@ Los resultados obtenidos son los siguientes:
 ## C
 
 ### Iterativo
-- Tiempo de ejecucion (5): 
-- Tiempo de ejecucion (50): 
-- Tiempo de ejecucion (500):
+- Tiempo de ejecucion (5): 0.00000003 segundos
+- Tiempo de ejecucion (50): 0.00000013 segundos
+- Tiempo de ejecucion (500): 0.00000108 segundos
 
 ![iterativoC](https://github.com/user-attachments/assets/bb055290-c1a1-40d7-979c-e253c4c1b000)
 
 ### Recursivo
-- Tiempo de ejecucion (5): 
-- Tiempo de ejecucion (50): 
-- Tiempo de ejecucion (500):
+- Tiempo de ejecucion (5): 0.00000004 segundos
+- Tiempo de ejecucion (50): 0.00000046 segundos
+- Tiempo de ejecucion (500): 0.00000517 segundos
 
 ![recursivoC](https://github.com/user-attachments/assets/9686afa9-fa37-4dea-a2b2-3bfd3acc3b7f)
 
